@@ -8,8 +8,16 @@ $ git config --global user.email denisbogdanovich77@gmail.com
 $ git config --global user.name st160820
 $ git config --global http.proxy http://st160820:AREpBxUf2V@proxy.du.lv:3128
 git push
+
 		^
 		|
 		|
 		|
 		botton to top
+
+git branch test1
+git checkout test1
+git add test1.txt
+git commit -m "qwerty"
+git push origin test
+		
